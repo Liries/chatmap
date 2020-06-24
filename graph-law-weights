@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2020-06-22">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="attr" title="attr" type="float"></attribute>
+      <attribute id="msg" title="msg" type="integer"></attribute>
+      <attribute id="class" title="class" type="integer"></attribute>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="weights" title="weights" type="long"></attribute>
+    </attributes>
+    <nodes>
+      <node id="卢震豪" label="卢震豪">
+        <attvalues>
+          <attvalue for="attr" value="0.41666666"></attvalue>
+          <attvalue for="msg" value="12"></attvalue>
+          <attvalue for="class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.3207"></viz:size>
+        <viz:position x="-120.11813" y="-101.04493"></viz:position>
+        <viz:color r="105" g="72" b="210"></viz:color>
+      </node>
+      <node id="杨国华" label="杨国华">
+        <attvalues>
+          <attvalue for="attr" value="0.5959302"></attvalue>
+          <attvalue for="msg" value="344"></attvalue>
+          <attvalue for="class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-17.472725" y="9.600404"></viz:position>
+        <viz:color r="169" g="78" b="157"></viz:color>
+      </node>
+      <node id="赵秋阳" label="赵秋阳">
+        <attvalues>
+          <attvalue for="attr" value="0.7209302"></attvalue>
+          <attvalue for="msg" value="43"></attvalue>
+          <attvalue for="class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="11.22449"></viz:size>
+        <viz:position x="52.26073" y="-34.210297"></viz:position>
+        <viz:color r="214" g="83" b="120"></viz:color>
+      </node>
+      <node id="徐朝雨" label="徐朝雨">
+        <attvalues>
+          <attvalue for="attr" value="0.42372882"></attvalue>
+          <attvalue for="msg" value="59"></attvalue>
+          <attvalue for="class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="11.690962"></viz:size>
+        <viz:position x="9.980861" y="54.079987"></viz:position>
+        <viz:color r="108" g="73" b="208" a="0.99607843"></viz:color>
+      </node>
+      <node id="宋倩" label="宋倩">
+        <attvalues>
+          <attvalue for="attr" value="0.4848485"></attvalue>
+          <attvalue for="msg" value="33"></attvalue>
+          <attvalue for="class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.932944"></viz:size>
+        <viz:position x="0.9905973" y="-38.398468"></viz:position>
+        <viz:color r="130" g="75" b="190"></viz:color>
+      </node>
+      <node id="徐铎烨" label="徐铎烨">
+        <attvalues>
+          <attvalue for="attr" value="0.8076923"></attvalue>
+          <attvalue for="msg" value="52"></attvalue>
+          <attvalue for="class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="11.48688"></viz:size>
+        <viz:position x="20.177073" y="15.245182"></viz:position>
+        <viz:color r="245" g="86" b="94"></viz:color>
+      </node>
+      <node id="王语嫣" label="王语嫣">
+        <attvalues>
+          <attvalue for="attr" value="0.39490446"></attvalue>
+          <attvalue for="msg" value="157"></attvalue>
+          <attvalue for="class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="14.548105"></viz:size>
+        <viz:position x="-79.48952" y="19.420803"></viz:position>
+        <viz:color r="97" g="72" b="217" a="0.99607843"></viz:color>
+      </node>
+      <node id="扈钟方" label="扈钟方">
+        <attvalues>
+          <attvalue for="attr" value="0.5"></attvalue>
+          <attvalue for="msg" value="50"></attvalue>
+          <attvalue for="class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="11.428572"></viz:size>
+        <viz:position x="-38.13343" y="62.590763"></viz:position>
+        <viz:color r="135" g="75" b="185"></viz:color>
+      </node>
+      <node id="译如" label="译如">
+        <attvalues>
+          <attvalue for="attr" value="0.0"></attvalue>
+          <attvalue for="msg" value="1"></attvalue>
+          <attvalue for="class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4.0296297" y="-139.77737"></viz:position>
+        <viz:color r="87" g="71" b="226"></viz:color>
+      </node>
+      <node id="林子郁" label="林子郁">
+        <attvalues>
+          <attvalue for="attr" value="0.52380955"></attvalue>
+          <attvalue for="msg" value="84"></attvalue>
+          <attvalue for="class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="12.419825"></viz:size>
+        <viz:position x="-61.581356" y="96.66375"></viz:position>
+        <viz:color r="144" g="76" b="178"></viz:color>
+      </node>
+      <node id="王乾" label="王乾">
+        <attvalues>
+          <attvalue for="attr" value="0.703125"></attvalue>
+          <attvalue for="msg" value="64"></attvalue>
+          <attvalue for="class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="11.836735"></viz:size>
+        <viz:position x="-78.59661" y="61.622467"></viz:position>
+        <viz:color r="208" g="82" b="125"></viz:color>
+      </node>
+      <node id="纪思源" label="纪思源">
+        <attvalues>
+          <attvalue for="attr" value="0.7826087"></attvalue>
+          <attvalue for="msg" value="23"></attvalue>
+          <attvalue for="class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.641399"></viz:size>
+        <viz:position x="83.578804" y="-8.950136"></viz:position>
+        <viz:color r="236" g="85" b="102"></viz:color>
+      </node>
+      <node id="孙艺芸" label="孙艺芸">
+        <attvalues>
+          <attvalue for="attr" value="0.8"></attvalue>
+          <attvalue for="msg" value="5"></attvalue>
+          <attvalue for="class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.116618"></viz:size>
+        <viz:position x="-138.79436" y="-24.182"></viz:position>
+        <viz:color r="243" g="85" b="96"></viz:color>
+      </node>
+      <node id="翟宇凡" label="翟宇凡">
+        <attvalues>
+          <attvalue for="attr" value="0.70731705"></attvalue>
+          <attvalue for="msg" value="41"></attvalue>
+          <attvalue for="class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="11.166181"></viz:size>
+        <viz:position x="-142.44598" y="47.706787"></viz:position>
+        <viz:color r="209" g="82" b="124"></viz:color>
+      </node>
+      <node id="蒋一鸣" label="蒋一鸣">
+        <attvalues>
+          <attvalue for="attr" value="0.8333333"></attvalue>
+          <attvalue for="msg" value="12"></attvalue>
+          <attvalue for="class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="10.3207"></viz:size>
+        <viz:position x="72.94153" y="108.16544"></viz:position>
+        <viz:color r="255" g="87" b="87"></viz:color>
+      </node>
+      <node id="崔晓晓" label="崔晓晓">
+        <attvalues>
+          <attvalue for="attr" value="0.6875"></attvalue>
+          <attvalue for="msg" value="16"></attvalue>
+          <attvalue for="class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.437318"></viz:size>
+        <viz:position x="49.30669" y="-103.57668"></viz:position>
+        <viz:color r="202" g="82" b="130"></viz:color>
+      </node>
+      <node id="向孟怀" label="向孟怀">
+        <attvalues>
+          <attvalue for="attr" value="0.8108108"></attvalue>
+          <attvalue for="msg" value="37"></attvalue>
+          <attvalue for="class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="11.049562"></viz:size>
+        <viz:position x="97.942055" y="69.508865"></viz:position>
+        <viz:color r="246" g="86" b="93"></viz:color>
+      </node>
+      <node id="伟麒" label="伟麒">
+        <attvalues>
+          <attvalue for="attr" value="0.625"></attvalue>
+          <attvalue for="msg" value="16"></attvalue>
+          <attvalue for="class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.437318"></viz:size>
+        <viz:position x="34.018417" y="136.98029"></viz:position>
+        <viz:color r="180" g="79" b="148"></viz:color>
+      </node>
+      <node id="张凝果" label="张凝果">
+        <attvalues>
+          <attvalue for="attr" value="0.7631579"></attvalue>
+          <attvalue for="msg" value="38"></attvalue>
+          <attvalue for="class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="11.078717"></viz:size>
+        <viz:position x="-52.88637" y="137.01242"></viz:position>
+        <viz:color r="229" g="84" b="107"></viz:color>
+      </node>
+      <node id="陈蒙" label="陈蒙">
+        <attvalues>
+          <attvalue for="attr" value="0.6818182"></attvalue>
+          <attvalue for="msg" value="22"></attvalue>
+          <attvalue for="class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.612245"></viz:size>
+        <viz:position x="-78.3298" y="-23.612677"></viz:position>
+        <viz:color r="200" g="81" b="131"></viz:color>
+      </node>
+      <node id="马铭骏" label="马铭骏">
+        <attvalues>
+          <attvalue for="attr" value="0.75"></attvalue>
+          <attvalue for="msg" value="4"></attvalue>
+          <attvalue for="class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.087463"></viz:size>
+        <viz:position x="-58.64027" y="-129.45624"></viz:position>
+        <viz:color r="225" g="84" b="111"></viz:color>
+      </node>
+      <node id="周康祺" label="周康祺">
+        <attvalues>
+          <attvalue for="attr" value="0.72"></attvalue>
+          <attvalue for="msg" value="25"></attvalue>
+          <attvalue for="class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.699709"></viz:size>
+        <viz:position x="-11.300971" y="129.46257"></viz:position>
+        <viz:color r="214" g="83" b="120"></viz:color>
+      </node>
+      <node id="许健程" label="许健程">
+        <attvalues>
+          <attvalue for="attr" value="0.73333335"></attvalue>
+          <attvalue for="msg" value="15"></attvalue>
+          <attvalue for="class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="10.408163"></viz:size>
+        <viz:position x="106.8851" y="26.493603"></viz:position>
+        <viz:color r="219" g="83" b="116"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="卢震豪" target="杨国华">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1" source="杨国华" target="赵秋阳">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2" source="杨国华" target="徐朝雨">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="3" source="杨国华" target="译如">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="4" source="杨国华" target="林子郁">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="5" source="杨国华" target="纪思源">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="6" source="杨国华" target="王乾">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="7" source="杨国华" target="蒋一鸣">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="11"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="8" source="杨国华" target="宋倩">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="9" source="杨国华" target="向孟怀">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="14"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="10" source="杨国华" target="伟麒">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="11" source="杨国华" target="张凝果">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="12" source="杨国华" target="王语嫣">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="11"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="13" source="杨国华" target="孙艺芸">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="15" source="杨国华" target="马铭骏">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="16" source="杨国华" target="扈钟方">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="14"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="17" source="杨国华" target="翟宇凡">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="19"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="18" source="杨国华" target="周康祺">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="20"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="19" source="杨国华" target="徐铎烨">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="20"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="20" source="杨国华" target="许健程">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="11"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="21" source="杨国华" target="崔晓晓">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="22" source="杨国华" target="陈蒙">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="23" source="赵秋阳" target="徐朝雨">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="24" source="赵秋阳" target="宋倩">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="25" source="赵秋阳" target="徐铎烨">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="26" source="徐朝雨" target="宋倩">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="27" source="徐朝雨" target="王语嫣">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="28" source="徐朝雨" target="扈钟方">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="29" source="徐朝雨" target="林子郁">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="30" source="徐朝雨" target="纪思源">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="31" source="徐朝雨" target="王乾">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="32" source="徐朝雨" target="蒋一鸣">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="33" source="徐朝雨" target="向孟怀">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="34" source="徐朝雨" target="伟麒">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="35" source="徐朝雨" target="张凝果">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="36" source="徐朝雨" target="陈蒙">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="37" source="徐朝雨" target="周康祺">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="38" source="徐朝雨" target="徐铎烨">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="39" source="徐朝雨" target="许健程">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="40" source="宋倩" target="王语嫣">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="41" source="宋倩" target="崔晓晓">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="42" source="宋倩" target="徐铎烨">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="43" source="徐铎烨" target="纪思源">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="44" source="徐铎烨" target="王乾">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="45" source="徐铎烨" target="扈钟方">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="47" source="王语嫣" target="林子郁">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="48" source="王语嫣" target="孙艺芸">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="49" source="王语嫣" target="陈蒙">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="50" source="王语嫣" target="扈钟方">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="51" source="王语嫣" target="翟宇凡">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="52" source="扈钟方" target="林子郁">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="53" source="林子郁" target="王乾">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="54" source="林子郁" target="张凝果">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="55" source="林子郁" target="周康祺">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="56" source="王乾" target="翟宇凡">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="57" source="孙艺芸" target="陈蒙">
+        <viz:color r="192" g="192" b="192"></viz:color>
+        <attvalues>
+          <attvalue for="weights" value="1"></attvalue>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
