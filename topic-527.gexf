@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2020-06-27">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="class_attr" title="class_attr" type="integer"></attribute>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="weights" type="long"></attribute>
+    </attributes>
+    <nodes>
+      <node id="周康祺" label="周康祺">
+        <attvalues>
+          <attvalue for="class_attr" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="47.13083" y="-346.3941"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="林子郁" label="林子郁">
+        <attvalues>
+          <attvalue for="class_attr" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="216.64734" y="189.32407"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="杨国华" label="杨国华">
+        <attvalues>
+          <attvalue for="class_attr" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-118.54965" y="-216.11111"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="王语嫣" label="王语嫣">
+        <attvalues>
+          <attvalue for="class_attr" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-145.22852" y="373.18112"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="周康祺" target="林子郁">
+        <attvalues>
+          <attvalue for="0" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="1" source="林子郁" target="王语嫣" weight="6.0">
+        <attvalues>
+          <attvalue for="0" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge id="2" source="杨国华" target="王语嫣">
+        <attvalues>
+          <attvalue for="0" value="1"></attvalue>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
