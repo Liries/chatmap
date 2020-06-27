@@ -47,16 +47,19 @@
     </nodes>
     <edges>
       <edge id="0" source="周康祺" target="林子郁">
+        <viz:thickness value="1.0"></viz:size>
         <attvalues>
           <attvalue for="0" value="1"></attvalue>
         </attvalues>
       </edge>
       <edge id="1" source="林子郁" target="王语嫣" weight="6.0">
+        <viz:thickness value="6.0"></viz:size>
         <attvalues>
           <attvalue for="0" value="6"></attvalue>
         </attvalues>
       </edge>
       <edge id="2" source="杨国华" target="王语嫣">
+        <viz:thickness value="1.0"></viz:size>
         <attvalues>
           <attvalue for="0" value="1"></attvalue>
         </attvalues>
